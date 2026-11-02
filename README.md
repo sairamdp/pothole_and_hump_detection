@@ -55,10 +55,6 @@ The model uses transfer learning and a custom annotated dataset to improve detec
 - Smart city monitoring
 - Road maintenance planning
 
-## GitHub Repository
-
-[View Project Repository](https://github.com/sairamdoddathallipadmanabhachar/SaiRamDoddathalliPadmanabhachar_16984381)
-
 ## Conclusion
 
 The fine-tuned YOLOv8n model achieved 80.28% Precision, 68.02% Recall, 73.42% mAP50, and 237.58 FPS, demonstrating its potential for automated road damage detection and real-time monitoring.
